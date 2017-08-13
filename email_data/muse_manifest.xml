@@ -1,0 +1,23 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="email.com" resolutions="1x" timestamp="1502585792729">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="41576446" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="83889996" seo="true" mt="1502585723538" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="3943265121" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:phone>index"/>
+    <file name="museutils.js" crc="183364071" ref="index:phone>index"/>
+    <file name="museredirect.js" crc="40941066" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="u129-9.png" crc="4096064226" ref="phone>index"/>
+    <file name="u107-9.png" crc="157224542" ref="index"/>
+  </folder>
+  <file name="index.html" crc="508183941" seo="true" mt="1502585489753" redirect="true"/>
+</manifest>
